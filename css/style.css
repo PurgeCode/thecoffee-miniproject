@@ -411,6 +411,16 @@ section {
    background: var(--text-color);
 }
 
+.build-love {
+   display: flex;
+   justify-content: center;
+   font-size: 10px;
+}
+
+.build-love span {
+   color: var(--secondary-color);
+}
+
 @media (max-width: 1560px) {
    header {
       padding: 14px 40px;
