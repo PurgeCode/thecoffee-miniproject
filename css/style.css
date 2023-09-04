@@ -473,7 +473,7 @@ section {
       display: flex;
       flex-direction: column;
       text-align: center;
-      background: #2b2640;
+      background: var(--bg-color);
       transition: all 0.4s ease;
    }
    .navbar.active {
