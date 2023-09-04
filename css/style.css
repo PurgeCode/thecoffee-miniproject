@@ -195,7 +195,7 @@ section {
 
 .about-img img {
    max-width: 100%;
-   height: auto;
+   height: 410px;
 }
 .about-text span {
    color: var(--main-color);
